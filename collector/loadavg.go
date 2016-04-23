@@ -13,6 +13,7 @@
 
 // +build !noloadavg
 // +build !windows
+// +build !darwin
 
 package collector
 
